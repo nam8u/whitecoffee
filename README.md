@@ -1,6 +1,6 @@
 # whitcoffee
 
-A simple flutter application ehich fetches data using HTTP request.
+A simple flutter application which fetches data using HTTP request and lists the response.
 
 ## Getting Started
 
